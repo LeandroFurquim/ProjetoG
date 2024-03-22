@@ -1,2 +1,2 @@
-# Meus Cursos
+# Projetos
  Praticando
